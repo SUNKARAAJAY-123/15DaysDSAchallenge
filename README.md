@@ -10,3 +10,7 @@ DAY-2
 1.Bset time to Buy and Sell (Leetcode-121)
 2.product of Array-except-self(Leetcode-125)
 3.valid-palindrome(Leetcode-238)
+DAY-3
+1.ANAGRAM OR NOT (Leetcode-242)
+2.FIND-THE-INDEX-OF-THE-FRIST-OCCURRENCE-IN-A-STRING(Leetcode-28)
+3.GROUP-ANAGRAMS(Leetcode-49)
