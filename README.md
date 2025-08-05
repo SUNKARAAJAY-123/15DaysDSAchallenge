@@ -14,3 +14,7 @@ DAY-3
 1.ANAGRAM OR NOT (Leetcode-242)
 2.FIND-THE-INDEX-OF-THE-FRIST-OCCURRENCE-IN-A-STRING(Leetcode-28)
 3.GROUP-ANAGRAMS(Leetcode-49)
+DAY-4
+1.Sub Array sum is Equals to K(Leetcode-560)
+2.Valid Parentheses(Leetcode-20)
+3.Longest Palindromic Substring(Leetcode-5)
