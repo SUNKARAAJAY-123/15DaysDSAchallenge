@@ -7,7 +7,7 @@ DAY-1
 2.MaxSubArray (Leetcode-53)
 3.Remove Duplicates in an given Array (Leetcode-26)
 DAY-2
-1.Bset time to Buy and Sell (Leetcode-121)
+1.Best time to Buy and Sell (Leetcode-121)
 2.product of Array-except-self(Leetcode-125)
 3.valid-palindrome(Leetcode-238)
 DAY-3
