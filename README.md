@@ -18,3 +18,7 @@ DAY-4
 1.Sub Array sum is Equals to K(Leetcode-560)
 2.Valid Parentheses(Leetcode-20)
 3.Longest Palindromic Substring(Leetcode-5)
+DAY-5
+1.Binary Search (Leetcode-704)
+2.Linked List Cycle (Leetcode-141)
+3.Traping Rain-Water Problem(Leetcode-42)
