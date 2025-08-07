@@ -22,3 +22,7 @@ DAY-5
 1.Binary Search (Leetcode-704)
 2.Linked List Cycle (Leetcode-141)
 3.Traping Rain-Water Problem(Leetcode-42)
+DAY-6
+1.InsertionSearch(Leetcode-35)
+2.ArrayisSorted(Leetcode-167)
+3.substringwithout(Leetcode-3)
