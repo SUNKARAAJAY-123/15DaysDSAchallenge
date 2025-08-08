@@ -26,3 +26,7 @@ DAY-6
 1.InsertionSearch(Leetcode-35)
 2.ArrayisSorted(Leetcode-167)
 3.substringwithout(Leetcode-3)
+DAY-7
+1.slidingWindow(Leetcode-239)
+2.132Pattern(Leetcode-456)
+3.ReverseLinkedlist(Leetcode-92)
