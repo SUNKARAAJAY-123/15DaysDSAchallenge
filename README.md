@@ -30,3 +30,7 @@ DAY-7
 1.slidingWindow(Leetcode-239)
 2.132Pattern(Leetcode-456)
 3.ReverseLinkedlist(Leetcode-92)
+DAY-8
+1.Simplify Path(Leetcode-71)
+2.Basic Calculator(Leetcode-227)
+3.Decode String(Leetcode-394)
