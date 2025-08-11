@@ -34,3 +34,7 @@ DAY-8
 1.Simplify Path(Leetcode-71)
 2.Basic Calculator(Leetcode-227)
 3.Decode String(Leetcode-394)
+DAY-9
+1.Sub array Sum equals K(Leetcode-560)
+2.ContainerWithMostWater(Leetcode-11)
+Max Depth of Binary Tree(Leetcode-104)
