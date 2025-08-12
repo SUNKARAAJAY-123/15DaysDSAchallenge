@@ -42,3 +42,7 @@ DAY-10
 1.Fibonacci number(Leetcode-509)
 2.Climbing stairs(Leetcode-70)
 3.Minimum Depth of binary tree(Leetcode-111)
+DAY-11
+1.Lowest Common ancestor of a binary tree(Leetcode-236)
+2.coin change(Leetcode-322)
+3.Number of islands(Leetcode-200)
