@@ -38,3 +38,7 @@ DAY-9
 1.Sub array Sum equals K(Leetcode-560)
 2.ContainerWithMostWater(Leetcode-11)
 Max Depth of Binary Tree(Leetcode-104)
+DAY-10
+1.Fibonacci number(Leetcode-509)
+2.Climbing stairs(Leetcode-70)
+3.Minimum Depth of binary tree(Leetcode-111)
