@@ -46,3 +46,7 @@ DAY-11
 1.Lowest Common ancestor of a binary tree(Leetcode-236)
 2.coin change(Leetcode-322)
 3.Number of islands(Leetcode-200)
+DAY-12
+1.Remove Nth Node from end of list(Leetcode-19)
+2.Palindrome Linked list(Leetcode-234)
+3.Intersection of two Linked lists(Leetcode-160)
