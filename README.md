@@ -50,3 +50,7 @@ DAY-12
 1.Remove Nth Node from end of list(Leetcode-19)
 2.Palindrome Linked list(Leetcode-234)
 3.Intersection of two Linked lists(Leetcode-160)
+DAY-13
+1.String Great(Leetcode-1209)
+2.Asteroid Collision(Leetcode-735)
+3.Make The String Great(Leetcode-1544)
