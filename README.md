@@ -54,3 +54,7 @@ DAY-13
 1.String Great(Leetcode-1209)
 2.Asteroid Collision(Leetcode-735)
 3.Make The String Great(Leetcode-1544)
+DAY-14
+1.power of two(Leetcode-231)
+2.minimum bit flip to convert number(Leetcode-2220)
+3.count primes(Leetcode-204)
